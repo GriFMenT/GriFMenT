@@ -11,5 +11,5 @@
 
 <hr>
 
-[//]: # [![GriFMenT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GriFMenT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[//]: # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GriFMenT&layout=compact&langs_count=10&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GriFMenT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GriFMenT&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GriFMenT&layout=compact&langs_count=10&hide=html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
